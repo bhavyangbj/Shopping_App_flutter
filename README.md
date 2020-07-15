@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter application.
+A Shopping App using Flutter.
 
 ## Getting Started
 
